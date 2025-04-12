@@ -8,11 +8,11 @@ School of Software Convergence, Myongji University
 
 **Experience**
 <br>
-🍊 빅데이터 분석 연합동아리 비타민 14기 멤버 (2024.07 ~ )
+🍊 [빅데이터 분석 연합동아리 비타민](https://cafe.naver.com/bitamin123) 14기 멤버 (2024.07 ~ )
 <br>
-🌳 명지대학교 AI and Data Analytics Lab Research Intern (2025.01 ~ )
+🌳 [명지대학교 AI and Data Analytics Lab](https://ailab-mju.github.io) Research Intern (2025.01 ~ )
 <br>
-💻 IT 서비스 개발 연합동아리 UMC 명지대학교 2기 Web, 3기 Server (2022.03 ~ 2022.12)
+💻 [IT 서비스 개발 연합동아리 UMC](https://umc.makeus.in) 명지대학교 2기 Web, 3기 Server (2022.03 ~ 2022.12)
 
 **Awards**
 <br>
