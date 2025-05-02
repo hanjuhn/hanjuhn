@@ -1,5 +1,9 @@
 ## About Me
 
+**Interests**
+<br>
+AI, Data Science, Back-End
+
 **Education**
 <br>
 🎓 명지대학교 융합소프트웨어학부 응용소프트웨어전공 재학
