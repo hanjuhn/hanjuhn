@@ -16,7 +16,7 @@ School of Software Convergence, Myongji University
 <br>
 🌳 [명지대학교 AI and Data Analytics Lab](https://ailab-mju.github.io) Research Intern (2025.01 ~ )
 <br>
-💻 [IT 서비스 개발 연합동아리 UMC](https://umc.makeus.in) 명지대학교 2기 Web, 3기 Server (2022.03 ~ 2022.12)
+🐣 [IT 서비스 개발 연합동아리 UMC](https://umc.makeus.in) 명지대학교 2기 Web, 3기 Server (2022.03 ~ 2022.12)
 
 **Tech Stack**
 <br>
