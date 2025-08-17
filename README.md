@@ -1,2 +1,2 @@
 - 🌱 I’m currently an undergraduate researcher at the [AI and Data Analytics Lab](https://ailab-mju.github.io/), Myongji University  
-- 📧 Feel free to email me at [hbae0830@gmail.com](mailto:hbae0830@gmail.com)
+- 📧 Feel free to contact me at [hbae0830@gmail.com](mailto:hbae0830@gmail.com)
